@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaCapilla)](https://github.com/FatimaCapilla/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaCapilla&exclude_repo=github-readme-stats,FatimaCapilla.github.io)](https://github.com/FatimaCapilla/github-readme-stats)
